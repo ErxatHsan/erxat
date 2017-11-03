@@ -2,7 +2,7 @@
     <div class="nav-breadcrumb-wrap">
         <div class="container">
             <nav class="nav-breadcrumb">
-                <a href="/">特别的名字</a>
+                <a href="/">依尔夏提</a>
                 <slot></slot>
             </nav>
         </div>
