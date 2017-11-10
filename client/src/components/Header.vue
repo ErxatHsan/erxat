@@ -2,7 +2,7 @@
          <div class="site-header" style="clear:both;">
         <div class="container">
             <div class="header-logo">
-                <!--<a href="index.php" title="小米官网"><img src="/static/img/vn-logo.png" /></a>-->
+                <a href="/" title="小米官网"><img src="/static/img/shop-1.png" /></a>
             </div>
             <div class="header-nav">
                 <ul class="nav-list">
@@ -10,7 +10,7 @@
                         <a class="btn-category-list" href="catalog.php" style="display:none;">全部商品分类</a>
                     </li>
                     <li class="nav-item">
-                        <a class="link" href="category.php?id=76"><span>电子产品</span></a>
+                      
                         <div class='item-children'>
                             <div class="container">
                                 <ul class="children-list clearfix">
